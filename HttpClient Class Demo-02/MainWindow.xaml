@@ -18,7 +18,7 @@
 
         <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Orientation="Vertical">
             <Label Name="lblURL" Content="URL"/>
-            <TextBox Name="txtURL" Text="http://www.contoso.com" Height="25"/>
+            <TextBox Name="txtURL" Text="http://www.google.com" Height="25"/>
             <Label Name="lbContent" Content="HTML Source"/>
         </StackPanel>
 
